@@ -1,0 +1,9 @@
+G:\Git\JTest\WindowsEntityFramework\WindowsEntityFramework\bin\Debug\WindowsEntityFramework.exe.config
+G:\Git\JTest\WindowsEntityFramework\WindowsEntityFramework\bin\Debug\WindowsEntityFramework.exe
+G:\Git\JTest\WindowsEntityFramework\WindowsEntityFramework\bin\Debug\WindowsEntityFramework.pdb
+G:\Git\JTest\WindowsEntityFramework\WindowsEntityFramework\obj\Debug\WindowsEntityFramework.csprojAssemblyReference.cache
+G:\Git\JTest\WindowsEntityFramework\WindowsEntityFramework\obj\Debug\WindowsEntityFramework.Properties.Resources.resources
+G:\Git\JTest\WindowsEntityFramework\WindowsEntityFramework\obj\Debug\WindowsEntityFramework.csproj.GenerateResource.cache
+G:\Git\JTest\WindowsEntityFramework\WindowsEntityFramework\obj\Debug\WindowsEntityFramework.csproj.CoreCompileInputs.cache
+G:\Git\JTest\WindowsEntityFramework\WindowsEntityFramework\obj\Debug\WindowsEntityFramework.exe
+G:\Git\JTest\WindowsEntityFramework\WindowsEntityFramework\obj\Debug\WindowsEntityFramework.pdb
